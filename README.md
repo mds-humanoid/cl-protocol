@@ -1,2 +1,2 @@
 # cl-protocol
-An Common Lisp library for parsing data received over a variety of protocols
+A Common Lisp library for encoding and decoding data for a variety of protocols.
